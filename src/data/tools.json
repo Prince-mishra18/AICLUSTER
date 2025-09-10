@@ -1,0 +1,2261 @@
+[
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "category": "Chatbot",
+    "description": "AI-powered chatbot that answers questions, helps with tasks, coding, writing, and more.",
+    "pricing": "Free + Paid",
+    "image": "/images/chatgpt.png",
+    "website": "https://chat.openai.com"
+  },
+  {
+    "id": 2,
+    "name": "Gemini",
+    "category": "Chatbot",
+    "description": "Google’s Gemini is an advanced AI assistant for conversations, coding, and reasoning tasks.",
+    "pricing": "Free + Paid (Google One AI Premium)",
+    "image": "/images/gemini.png",
+    "website": "https://gemini.google.com"
+  },
+  {
+    "id": 3,
+    "name": "Perplexity AI",
+    "category": "Search Engine",
+    "description": "AI-powered search engine that delivers accurate, cited answers instantly.",
+    "pricing": "Free + Pro Plan",
+    "image": "/images/perplexity.png",
+    "website": "https://www.perplexity.ai"
+  },
+  {
+  "id": 4,
+  "name": "Claude",
+  "category": "Chatbot",
+  "description": "Claude is a conversational AI by Anthropic, designed to be helpful, honest, and safe. It assists with writing, coding, analysis, and customer support.",
+  "pricing": "Free + Paid",
+  "image": "/images/claude.png",
+  "website": "https://www.anthropic.com/claude"
+},
+{
+  "id": 5,
+  "name": "Canva",
+  "category": "Graphic Design",
+  "description": "AI-powered design platform to create graphics, presentations, posters, and social media content easily.",
+  "pricing": "Free + Paid (Pro Plan)",
+  "image": "/images/canva.png",
+  "website": "https://www.canva.com"
+},
+
+{
+  "id": 6,
+  "name": "DeepSeek",
+  "category": "AI Search / Research",
+  "description": "AI-powered tool to analyze, summarize, and search large volumes of data efficiently.",
+  "pricing": "Free + Paid",
+  "image": "/images/deepseek.png",
+  "website": "https://deepseek.ai"
+},
+
+  {
+    "id": 7,
+    "name": "Midjourney",
+    "category": "Image Generation",
+    "description": "AI-powered image generator that creates stunning artwork and designs from text prompts.",
+    "pricing": "Paid (Subscription)",
+    "image": "https://yt3.googleusercontent.com/3zESc4qAWHx8JT0YErsGgnmMvZaZr1KJ9XXOP8_Qr5Sj7BHPJmxbCT8ABgf-rJlhGC9tXfJlZQ=s900-c-k-c0x00ffffff-no-rj",
+    "website": "https://www.midjourney.com"
+  },
+  {
+    "id": 8,
+    "name": "Notion AI",
+    "category": "Productivity",
+    "description": "AI writing assistant integrated into Notion for content creation, summarization, and task automation.",
+    "pricing": "Free + Paid (Notion plans)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "website": "https://www.notion.so/product/ai"
+  },
+  {
+    "id": 9,
+    "name": "GitHub Copilot",
+    "category": "Code Assistant",
+    "description": "AI-powered code completion and programming assistant that helps developers write code faster.",
+    "pricing": "Paid (Subscription)",
+    "image": "https://github.com/github/copilot-docs/raw/main/docs/images/copilot-logo.png",
+    "website": "https://github.com/features/copilot"
+  },
+  {
+    "id": 10,
+    "name": "Jasper AI",
+    "category": "Content Writing",
+    "description": "AI content creation platform for marketing copy, blog posts, social media, and business content.",
+    "pricing": "Paid (Subscription)",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGQHfWgdyqwJQ/company-logo_200_200/0/1630608964267/jasper_ai_logo?e=2147483647&v=beta&t=5l8oYvJDkWd7dKgMHXGRKQGT8Tr7l3n8VKJg5rCqn-0",
+    "website": "https://www.jasper.ai"
+  },
+  {
+    "id": 11,
+    "name": "RunwayML",
+    "category": "Video Generation",
+    "description": "AI-powered creative suite for video editing, generation, and multimedia content creation.",
+    "pricing": "Free + Paid",
+    "image": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1500648892/uu2lhslqhszecqjmjzlk.png",
+    "website": "https://runwayml.com"
+  },
+  {
+    "id": 12,
+    "name": "Replicate",
+    "category": "AI Platform",
+    "description": "Platform to run and deploy machine learning models in the cloud with simple API access.",
+    "pricing": "Pay-per-use",
+    "image": "https://avatars.githubusercontent.com/u/55632303?s=200&v=4",
+    "website": "https://replicate.com"
+  },
+  {
+    "id": 13,
+    "name": "Stability AI",
+    "category": "Image Generation",
+    "description": "Open-source AI models for image generation, including Stable Diffusion for creating art and images.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/100950301?s=200&v=4",
+    "website": "https://stability.ai"
+  },
+  {
+    "id": 14,
+    "name": "Hugging Face",
+    "category": "AI Platform",
+    "description": "Open-source platform for machine learning models, datasets, and AI collaboration tools.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/25720743?s=200&v=4",
+    "website": "https://huggingface.co"
+  },
+  {
+    "id": 15,
+    "name": "Copy.ai",
+    "category": "Content Writing",
+    "description": "AI copywriting tool for creating marketing content, emails, social media posts, and sales copy.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/C560BAQEgD2w8FQfBRw/company-logo_200_200/0/1630576516888/copy_ai_logo?e=2147483647&v=beta&t=5Vh3E-4BPxK4J5bWzl8mHx7VQ6Wz8rY6tL5xSzM8s1o",
+    "website": "https://www.copy.ai"
+  },
+  {
+    "id": 16,
+    "name": "Descript",
+    "category": "Audio/Video Editing",
+    "description": "AI-powered audio and video editor with transcription, overdub, and collaborative editing features.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGQdTQfZwB0Jg/company-logo_200_200/0/1630588074896/descript_logo?e=2147483647&v=beta&t=8Wq3dJ2kLp5vN7mR9xC8fG1tY4sA6bE3zH9vK2lP0wQ",
+    "website": "https://www.descript.com"
+  },
+  {
+    "id": 17,
+    "name": "Synthesia",
+    "category": "Video Generation",
+    "description": "AI video generation platform that creates videos with AI avatars from text scripts.",
+    "pricing": "Paid (Subscription)",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEYd-tJ9j0CkQ/company-logo_200_200/0/1630567945432/synthesia_logo?e=2147483647&v=beta&t=3mF8xQ1rN5vZ7wR2kL9bY4sA6eP8tH0jC3dG9vK2lO5",
+    "website": "https://www.synthesia.io"
+  },
+  {
+    "id": 18,
+    "name": "Loom",
+    "category": "Video Recording",
+    "description": "Screen recording tool with AI-powered features for automatic transcription and video summarization.",
+    "pricing": "Free + Paid",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Loom_logo.png",
+    "website": "https://www.loom.com"
+  },
+  {
+    "id": 19,
+    "name": "Grammarly",
+    "category": "Writing Assistant",
+    "description": "AI-powered writing assistant for grammar checking, style improvement, and writing enhancement.",
+    "pricing": "Free + Premium",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Grammarly_Logo.svg",
+    "website": "https://www.grammarly.com"
+  },
+  {
+    "id": 20,
+    "name": "Murf AI",
+    "category": "Text-to-Speech",
+    "description": "AI voice generator that converts text to realistic speech with multiple voice options and languages.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQE6D5Z8s3mH5Q/company-logo_200_200/0/1630556031976/murf_ai_logo?e=2147483647&v=beta&t=7nQ2kR9mS4vZ8wB1jL6cY3sA5eP7tG0hF2dH8vM1oN4",
+    "website": "https://murf.ai"
+  },
+  {
+    "id": 21,
+    "name": "Otter.ai",
+    "category": "Transcription",
+    "description": "AI meeting assistant that provides real-time transcription, notes, and conversation insights.",
+    "pricing": "Free + Paid",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Otter.ai_logo.svg/512px-Otter.ai_logo.svg.png",
+    "website": "https://otter.ai"
+  },
+  {
+    "id": 22,
+    "name": "DALL-E 3",
+    "category": "Image Generation",
+    "description": "OpenAI's advanced AI image generator that creates detailed images from text descriptions.",
+    "pricing": "Integrated with ChatGPT Plus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png",
+    "website": "https://openai.com/dall-e-3"
+  },
+  {
+    "id": 23,
+    "name": "Adobe Firefly",
+    "category": "Image Generation",
+    "description": "AI-powered creative tools integrated into Adobe Creative Suite for image generation and editing.",
+    "pricing": "Integrated with Adobe CC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png",
+    "website": "https://firefly.adobe.com"
+  },
+  {
+    "id": 24,
+    "name": "Character.AI",
+    "category": "Chatbot",
+    "description": "Platform to create and chat with AI characters for entertainment, learning, and creative conversations.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/79456653?s=200&v=4",
+    "website": "https://character.ai"
+  },
+  {
+    "id": 25,
+    "name": "Poe by Quora",
+    "category": "Chatbot",
+    "description": "AI platform that provides access to multiple AI models including GPT, Claude, and others in one interface.",
+    "pricing": "Free + Paid",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Quora_logo_2015.svg/512px-Quora_logo_2015.svg.png",
+    "website": "https://poe.com"
+  },
+  {
+    "id": 26,
+    "name": "Eleven Labs",
+    "category": "Text-to-Speech",
+    "description": "AI voice cloning and text-to-speech platform with realistic voice generation and multilingual support.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/92393271?s=200&v=4",
+    "website": "https://elevenlabs.io"
+  },
+  {
+    "id": 27,
+    "name": "Leonardo AI",
+    "category": "Image Generation",
+    "description": "AI-powered platform for creating game assets, concept art, and digital illustrations.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/D560BAQGvqCAhSkJvdw/company-logo_200_200/0/1689211011738/leonardo_ai_logo?e=2147483647&v=beta&t=abc123",
+    "website": "https://leonardo.ai"
+  },
+  {
+    "id": 28,
+    "name": "Writesonic",
+    "category": "Content Writing",
+    "description": "AI writing assistant for creating articles, ads, emails, and marketing copy with SEO optimization.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/74073608?s=200&v=4",
+    "website": "https://writesonic.com"
+  },
+  {
+    "id": 29,
+    "name": "Tome",
+    "category": "Presentation",
+    "description": "AI-powered presentation tool that creates slides, narratives, and visual stories from prompts.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGZn8CqMzNtSg/company-logo_200_200/0/1677174567492/tome_hq_logo?e=2147483647&v=beta&t=def456",
+    "website": "https://tome.app"
+  },
+  {
+    "id": 30,
+    "name": "Fireflies.ai",
+    "category": "Meeting Assistant",
+    "description": "AI notetaker that records, transcribes, and analyzes voice conversations and meetings.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/41554506?s=200&v=4",
+    "website": "https://fireflies.ai"
+  },
+  {
+    "id": 31,
+    "name": "Zapier AI",
+    "category": "Automation",
+    "description": "AI-powered automation platform to connect apps and automate workflows without coding.",
+    "pricing": "Free + Paid",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Zapier_logo.svg/512px-Zapier_logo.svg.png",
+    "website": "https://zapier.com"
+  },
+  {
+    "id": 32,
+    "name": "Pictory",
+    "category": "Video Generation",
+    "description": "AI video creation platform that turns text content into engaging videos with voiceovers.",
+    "pricing": "Paid (Subscription)",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGSYhXYpfIIxQ/company-logo_200_200/0/1679339847935/pictory_ai_logo?e=2147483647&v=beta&t=ghi789",
+    "website": "https://pictory.ai"
+  },
+  {
+    "id": 33,
+    "name": "Gamma",
+    "category": "Presentation",
+    "description": "AI presentation maker that creates beautiful slides and documents from text prompts.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/74824634?s=200&v=4",
+    "website": "https://gamma.app"
+  },
+  {
+    "id": 34,
+    "name": "Framer AI",
+    "category": "Web Design",
+    "description": "AI website builder that creates responsive websites from simple text descriptions.",
+    "pricing": "Free + Paid",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Framer_logo.svg/512px-Framer_logo.svg.png",
+    "website": "https://framer.com"
+  },
+  {
+    "id": 35,
+    "name": "Rytr",
+    "category": "Content Writing",
+    "description": "AI writing assistant for creating blogs, emails, ads, and social media content quickly.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/82743252?s=200&v=4",
+    "website": "https://rytr.me"
+  },
+  {
+    "id": 36,
+    "name": "Speechify",
+    "category": "Text-to-Speech",
+    "description": "AI text-to-speech app that reads documents, articles, and books aloud with natural voices.",
+    "pricing": "Free + Premium",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Speechify_logo.svg/512px-Speechify_logo.svg.png",
+    "website": "https://speechify.com"
+  },
+  {
+    "id": 37,
+    "name": "Beautiful.AI",
+    "category": "Presentation",
+    "description": "AI presentation software that automatically designs slides and maintains visual consistency.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGnQjQlXzQkzw/company-logo_200_200/0/1630586659527/beautiful_ai_logo?e=2147483647&v=beta&t=jkl012",
+    "website": "https://beautiful.ai"
+  },
+  {
+    "id": 38,
+    "name": "Podcastle",
+    "category": "Audio Production",
+    "description": "AI-powered podcast creation platform with recording, editing, and transcription tools.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/63847890?s=200&v=4",
+    "website": "https://podcastle.ai"
+  },
+  {
+    "id": 39,
+    "name": "Scribe AI",
+    "category": "Documentation",
+    "description": "AI tool that automatically creates step-by-step guides and documentation from screen recordings.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQFyQnPzQoJOgQ/company-logo_200_200/0/1647881347945/scribehow_logo?e=2147483647&v=beta&t=mno345",
+    "website": "https://scribehow.com"
+  },
+  {
+    "id": 40,
+    "name": "Remove.bg",
+    "category": "Image Editing",
+    "description": "AI-powered background removal tool that automatically removes backgrounds from images.",
+    "pricing": "Free + Credits",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Remove.bg_logo.svg/512px-Remove.bg_logo.svg.png",
+    "website": "https://remove.bg"
+  },
+  {
+    "id": 41,
+    "name": "Wordtune",
+    "category": "Writing Assistant",
+    "description": "AI writing companion that helps rewrite and improve text for clarity and tone.",
+    "pricing": "Free + Premium",
+    "image": "https://avatars.githubusercontent.com/u/67845207?s=200&v=4",
+    "website": "https://wordtune.com"
+  },
+  {
+    "id": 42,
+    "name": "Cohere",
+    "category": "AI Platform",
+    "description": "Enterprise AI platform for building applications with natural language processing capabilities.",
+    "pricing": "Free Tier + Paid",
+    "image": "https://avatars.githubusercontent.com/u/67028808?s=200&v=4",
+    "website": "https://cohere.ai"
+  },
+  {
+    "id": 43,
+    "name": "Rewind",
+    "category": "Memory Assistant",
+    "description": "AI-powered personal memory assistant that records and makes searchable everything you see and hear.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/96991516?s=200&v=4",
+    "website": "https://rewind.ai"
+  },
+  {
+    "id": 44,
+    "name": "Fliki",
+    "category": "Video Generation",
+    "description": "AI video generator that creates videos from text with realistic voiceovers and stock footage.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGqBzE9VvZ8Xw/company-logo_200_200/0/1679471356748/fliki_ai_logo?e=2147483647&v=beta&t=pqr678",
+    "website": "https://fliki.ai"
+  },
+  {
+    "id": 45,
+    "name": "MonkeyType AI",
+    "category": "Typing Practice",
+    "description": "AI-enhanced typing test platform with personalized practice and performance analytics.",
+    "pricing": "Free",
+    "image": "https://avatars.githubusercontent.com/u/70674306?s=200&v=4",
+    "website": "https://monkeytype.com"
+  },
+  {
+    "id": 46,
+    "name": "Krisp",
+    "category": "Audio Enhancement",
+    "description": "AI-powered noise cancellation tool for crystal clear voice calls and recordings.",
+    "pricing": "Free + Pro",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Krisp_logo.svg/512px-Krisp_logo.svg.png",
+    "website": "https://krisp.ai"
+  },
+  {
+    "id": 47,
+    "name": "Superhuman",
+    "category": "Email Assistant",
+    "description": "AI-enhanced email client with smart scheduling, templates, and productivity features.",
+    "pricing": "Paid (Subscription)",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGZn8B7-dJfGw/company-logo_200_200/0/1679339847935/superhuman_logo?e=2147483647&v=beta&t=stu901",
+    "website": "https://superhuman.com"
+  },
+  {
+    "id": 48,
+    "name": "Persado",
+    "category": "Marketing AI",
+    "description": "AI platform that generates marketing language and optimizes messaging for better engagement.",
+    "pricing": "Enterprise",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQFPJTVsTfYKgA/company-logo_200_200/0/1679339847935/persado_logo?e=2147483647&v=beta&t=vwx234",
+    "website": "https://persado.com"
+  },
+  {
+    "id": 49,
+    "name": "Luma AI",
+    "category": "3D Generation",
+    "description": "AI platform for creating photorealistic 3D models and scenes from photos and videos.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/81967131?s=200&v=4",
+    "website": "https://lumalabs.ai"
+  },
+  {
+    "id": 50,
+    "name": "DeepL",
+    "category": "Translation",
+    "description": "AI-powered translator that provides accurate and natural language translations.",
+    "pricing": "Free + Pro",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/DeepL_Logo.svg/512px-DeepL_Logo.svg.png",
+    "website": "https://deepl.com"
+  },
+  {
+    "id": 51,
+    "name": "Stable Video Diffusion",
+    "category": "Video Generation",
+    "description": "Open-source AI model for generating high-quality videos from text descriptions.",
+    "pricing": "Free (Open Source)",
+    "image": "https://avatars.githubusercontent.com/u/100950301?s=200&v=4",
+    "website": "https://stability.ai/stable-video"
+  },
+  {
+    "id": 52,
+    "name": "Opus Clip",
+    "category": "Video Editing",
+    "description": "AI video editor that automatically creates viral short clips from long-form content.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEyxRvFoRKT3g/company-logo_200_200/0/1679471356748/opus_clip_logo?e=2147483647&v=beta&t=yzab567",
+    "website": "https://opus.pro"
+  },
+  {
+    "id": 53,
+    "name": "Topaz Labs",
+    "category": "Image Enhancement",
+    "description": "AI-powered photo and video enhancement software for upscaling and quality improvement.",
+    "pricing": "Paid (One-time)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Topaz_Labs_logo.svg/512px-Topaz_Labs_logo.svg.png",
+    "website": "https://topazlabs.com"
+  },
+  {
+    "id": 54,
+    "name": "Soundraw",
+    "category": "Music Generation",
+    "description": "AI music generator that creates royalty-free background music for videos and projects.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/78429847?s=200&v=4",
+    "website": "https://soundraw.io"
+  },
+  {
+    "id": 55,
+    "name": "Lex",
+    "category": "Writing Assistant",
+    "description": "AI-powered writing tool designed specifically for authors and long-form content creation.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGZn8CqMzNtSg/company-logo_200_200/0/1677174567492/lex_page_logo?e=2147483647&v=beta&t=cdef890",
+    "website": "https://lex.page"
+  },
+  {
+    "id": 56,
+    "name": "Bardeen",
+    "category": "Browser Automation",
+    "description": "AI-powered browser extension that automates repetitive tasks and workflows.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/82746528?s=200&v=4",
+    "website": "https://bardeen.ai"
+  },
+  {
+    "id": 57,
+    "name": "Upscale.media",
+    "category": "Image Enhancement",
+    "description": "AI image upscaler that enhances photo resolution and quality without losing detail.",
+    "pricing": "Free + Credits",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQFyQnPzQoJOgQ/company-logo_200_200/0/1647881347945/upscale_media_logo?e=2147483647&v=beta&t=ghij123",
+    "website": "https://upscale.media"
+  },
+  {
+    "id": 58,
+    "name": "Clickup AI",
+    "category": "Project Management",
+    "description": "AI-enhanced project management platform with smart task creation and workflow optimization.",
+    "pricing": "Free + Paid",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ClickUp_Logo.svg/512px-ClickUp_Logo.svg.png",
+    "website": "https://clickup.com"
+  },
+  {
+    "id": 59,
+    "name": "Mem",
+    "category": "Knowledge Management",
+    "description": "AI-powered note-taking app that automatically organizes and connects your thoughts and ideas.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/77538452?s=200&v=4",
+    "website": "https://mem.ai"
+  },
+  {
+    "id": 60,
+    "name": "Runway Gen-2",
+    "category": "Video Generation",
+    "description": "Advanced AI video generation model that creates realistic videos from text prompts.",
+    "pricing": "Paid (Credits)",
+    "image": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1500648892/uu2lhslqhszecqjmjzlk.png",
+    "website": "https://runwayml.com/ai-tools/gen-2"
+  },
+  {
+    "id": 61,
+    "name": "Poly",
+    "category": "3D Generation",
+    "description": "AI platform for generating 3D textures, materials, and assets for game development.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/89567234?s=200&v=4",
+    "website": "https://poly.cam"
+  },
+  {
+    "id": 62,
+    "name": "Writecream",
+    "category": "Content Writing",
+    "description": "AI writing tool for creating marketing content, voiceovers, and social media posts.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGqBzE9VvZ8Xw/company-logo_200_200/0/1679471356748/writecream_logo?e=2147483647&v=beta&t=klmn456",
+    "website": "https://writecream.com"
+  },
+  {
+    "id": 63,
+    "name": "Timely",
+    "category": "Time Tracking",
+    "description": "AI-powered time tracking software that automatically records and categorizes work activities.",
+    "pricing": "Free Trial + Paid",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQFPJTVsTfYKgA/company-logo_200_200/0/1679339847935/timely_logo?e=2147483647&v=beta&t=opqr789",
+    "website": "https://timelyapp.com"
+  },
+  {
+    "id": 64,
+    "name": "Botsify",
+    "category": "Chatbot Builder",
+    "description": "AI chatbot platform for creating conversational bots for websites and messaging apps.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/56789012?s=200&v=4",
+    "website": "https://botsify.com"
+  },
+  {
+    "id": 65,
+    "name": "Voicemod",
+    "category": "Voice Modification",
+    "description": "AI voice changer and soundboard for real-time voice effects in calls and streams.",
+    "pricing": "Free + Pro",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/v/v8/Voicemod_logo.svg/512px-Voicemod_logo.svg.png",
+    "website": "https://voicemod.net"
+  },
+  {
+    "id": 66,
+    "name": "Rask AI",
+    "category": "Video Translation",
+    "description": "AI-powered video localization platform that translates and dubs videos into multiple languages.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGZn8CqMzNtSg/company-logo_200_200/0/1677174567492/rask_ai_logo?e=2147483647&v=beta&t=stuv012",
+    "website": "https://rask.ai"
+  },
+  {
+    "id": 67,
+    "name": "Mokker AI",
+    "category": "Product Photography",
+    "description": "AI-powered tool for creating professional product photos with different backgrounds.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/98765432?s=200&v=4",
+    "website": "https://mokker.ai"
+  },
+  {
+    "id": 68,
+    "name": "Kaiber",
+    "category": "Video Generation",
+    "description": "AI video generation platform that creates music videos and visual content from audio.",
+    "pricing": "Free + Paid",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEyxRvFoRKT3g/company-logo_200_200/0/1679471356748/kaiber_ai_logo?e=2147483647&v=beta&t=wxyz345",
+    "website": "https://kaiber.ai"
+  },
+  {
+    "id": 69,
+    "name": "Seamless AI",
+    "category": "Sales Intelligence",
+    "description": "AI-powered sales prospecting tool that finds and verifies contact information.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/76543210?s=200&v=4",
+    "website": "https://seamless.ai"
+  },
+  {
+    "id": 70,
+    "name": "Glean",
+    "category": "Enterprise Search",
+    "description": "AI-powered workplace search that finds information across all company apps and documents.",
+    "pricing": "Enterprise",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQFyQnPzQoJOgQ/company-logo_200_200/0/1647881347945/glean_ai_logo?e=2147483647&v=beta&t=abcd678",
+    "website": "https://glean.com"
+  },
+  {
+    "id": 71,
+    "name": "Vectornator",
+    "category": "Design Tools",
+    "description": "AI-enhanced vector graphics design app for creating illustrations and graphic design.",
+    "pricing": "Free + Pro",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Vectornator_logo.svg/512px-Vectornator_logo.svg.png",
+    "website": "https://vectornator.io"
+  },
+  {
+    "id": 72,
+    "name": "Typeface",
+    "category": "Enterprise Content",
+    "description": "AI content platform for enterprises to create personalized, on-brand content at scale.",
+    "pricing": "Enterprise",
+    "image": "https://avatars.githubusercontent.com/u/87654321?s=200&v=4",
+    "website": "https://typeface.ai"
+  },
+  {
+    "id": 73,
+    "name": "Neural Love",
+    "category": "Image Enhancement",
+    "description": "AI-powered photo restoration, enhancement, and artistic transformation platform.",
+    "pricing": "Free + Credits",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGqBzE9VvZ8Xw/company-logo_200_200/0/1679471356748/neural_love_logo?e=2147483647&v=beta&t=efgh901",
+    "website": "https://neural.love"
+  },
+  {
+    "id": 74,
+    "name": "Mubert",
+    "category": "Music Generation",
+    "description": "AI music generator that creates royalty-free music for content creators and developers.",
+    "pricing": "Free + Paid",
+    "image": "https://avatars.githubusercontent.com/u/65432109?s=200&v=4",
+    "website": "https://mubert.com"
+  },
+  {
+    "id": 75,
+    "name": "AI21 Studio",
+    "category": "Language Model",
+    "description": "Advanced AI language models and API for building applications with natural language capabilities.",
+    "pricing": "Free Tier + Paid",
+    "image": "https://avatars.githubusercontent.com/u/54321098?s=200&v=4",
+    "website": "https://ai21.com"
+  },
+  {
+    "id": 76,
+    "name": "Chatbase",
+    "category": "Chatbot",
+    "description": "Customizable AI chatbots for websites and customer service.",
+    "pricing": "Paid",
+    "image": "https://cdn-1.webcatalog.io/catalog/chatbase/chatbase-icon-filled-256.webp?v=1700184469279",
+    "website": "https://www.chatbase.co/"
+  },
+  {
+    "id": 77,
+    "name": "POPAI",
+    "category": "Chatbot",
+    "description": "AI assistant for data analysis and insights, often integrated with e-commerce platforms.",
+    "pricing": "Paid",
+    "image": "https://www.popai.io/assets/images/logo.png",
+    "website": "https://www.popai.io/"
+  },
+  {
+    "id": 78,
+    "name": "COZE",
+    "category": "Chatbot",
+    "description": "Build and deploy AI chatbots with ease.",
+    "pricing": "Free + Paid",
+    "image": "https://lf3-static.coze.com/obj/eden-sg/ljhwz_coze_sg/icon-256x256.png",
+    "website": "https://www.coze.com/"
+  },
+  {
+    "id": 79,
+    "name": "GitMind",
+    "category": "Chatbot",
+    "description": "An AI-powered mind mapping and brainstorming tool.",
+    "pricing": "Free + Paid",
+    "image": "https://app.gitmind.com/assets/logo.png",
+    "website": "https://gitmind.com/"
+  },
+  {
+    "id": 80,
+    "name": "All Ai",
+    "category": "Chatbot",
+    "description": "A platform offering various AI tools and services.",
+    "pricing": "Varies",
+    "image": "https://all-ai.io/static/media/allai_logo.4a23363065b74102c917.png",
+    "website": "https://all-ai.io/"
+  },
+  {
+    "id": 81,
+    "name": "LongShot",
+    "category": "Chatbot",
+    "description": "AI writing assistant for generating long-form content.",
+    "pricing": "Free + Paid",
+    "image": "https://assets-global.website-files.com/60451a9c8b74a27521a0a552/60453531cfb5f85ed291a27e_longshot-logo.png",
+    "website": "https://www.longshot.ai/"
+  },
+  {
+    "id": 82,
+    "name": "Webbily",
+    "category": "Chatbot",
+    "description": "AI-powered website builder for creating professional sites quickly.",
+    "pricing": "Paid",
+    "image": "https://www.webbily.com/img/webbily.png",
+    "website": "https://www.webbily.com/"
+  },
+  {
+    "id": 83,
+    "name": "BotXpert",
+    "category": "Chatbot",
+    "description": "AI chatbot builder for sales and customer support.",
+    "pricing": "Paid",
+    "image": "https://botxpert.com/wp-content/uploads/2023/07/logo-black.png",
+    "website": "https://botxpert.com/"
+  },
+  {
+    "id": 84,
+    "name": "10web",
+    "category": "Chatbot",
+    "description": "AI-powered website builder and hosting platform.",
+    "pricing": "Paid",
+    "image": "https://10web.io/wp-content/themes/10web-theme/assets/img/logo.svg",
+    "website": "https://10web.io/"
+  },
+  {
+    "id": 85,
+    "name": "Skillnary",
+    "category": "Chatbot",
+    "description": "AI-driven platform for skill development and learning.",
+    "pricing": "Varies",
+    "image": "https://www.skillnary.com/assets/images/logo.png",
+    "website": "https://www.skillnary.com/"
+  },
+  {
+    "id": 86,
+    "name": "Gleap",
+    "category": "Chatbot",
+    "description": "Customer feedback and communication tool with AI features.",
+    "pricing": "Paid",
+    "image": "https://gleap.io/wp-content/uploads/2023/03/Gleap-Favicon.svg",
+    "website": "https://gleap.io/"
+  },
+  {
+    "id": 87,
+    "name": "Chatbot (generic)",
+    "category": "Chatbot",
+    "description": "A general-purpose AI chatbot tool.",
+    "pricing": "Varies",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Chatbot_logo.svg/1200px-Chatbot_logo.svg.png",
+    "website": "https://www.chatbot.com/"
+  },
+  {
+    "id": 88,
+    "name": "Blogseo",
+    "category": "Chatbot",
+    "description": "AI assistant for generating SEO-optimized blog content.",
+    "pricing": "Paid",
+    "image": "https://blogseo.io/static/media/logo.fca4757c32b5090f77ea.png",
+    "website": "https://blogseo.io/"
+  },
+  {
+    "id": 89,
+    "name": "Perplexity",
+    "category": "Chatbot",
+    "description": "AI-powered conversational answer engine.",
+    "pricing": "Free + Paid",
+    "image": "https://www.perplexity.ai/favicon.ico",
+    "website": "https://www.perplexity.ai/"
+  },
+  {
+    "id": 90,
+    "name": "Bing",
+    "category": "Chatbot",
+    "description": "Microsoft's search engine with integrated AI chat capabilities.",
+    "pricing": "Free",
+    "image": "https://www.bing.com/favicon.ico",
+    "website": "https://www.bing.com/"
+  },
+  {
+    "id": 91,
+    "name": "Seona AI",
+    "category": "Chatbot",
+    "description": "AI for SEO optimization and content generation.",
+    "pricing": "Paid",
+    "image": "https://www.seona.ai/wp-content/uploads/2023/03/seona_logo_text_dark.svg",
+    "website": "https://www.seona.ai/"
+  },
+  {
+    "id": 92,
+    "name": "Dialogflow",
+    "category": "Chatbot",
+    "description": "Google's natural language understanding platform for building conversational interfaces.",
+    "pricing": "Free Tier + Paid",
+    "image": "https://firebase.google.com/downloads/brand-guidelines/SVG/logo-standard.svg",
+    "website": "https://cloud.google.com/dialogflow"
+  },
+  {
+    "id": 93,
+    "name": "Chatfuel",
+    "category": "Chatbot",
+    "description": "Platform for building AI chatbots for Messenger and Instagram.",
+    "pricing": "Free + Paid",
+    "image": "https://chatfuel.com/favicon.png",
+    "website": "https://chatfuel.com/"
+  },
+  {
+    "id": 94,
+    "name": "Bright Eye",
+    "category": "Chatbot",
+    "description": "AI-powered tool for image recognition and visual search.",
+    "pricing": "Varies",
+    "image": "https://brighteyeco.com/wp-content/uploads/2020/08/logo-blue-transparent.png",
+    "website": "https://brighteyeco.com/"
+  },
+  {
+    "id": 95,
+    "name": "Wix",
+    "category": "Chatbot",
+    "description": "Website builder with AI features for design and content generation.",
+    "pricing": "Free + Paid",
+    "image": "https://www.wix.com/favicon.ico",
+    "website": "https://www.wix.com/"
+  },
+  {
+    "id": 96,
+    "name": "ChatSimple",
+    "category": "Chatbot",
+    "description": "Simple AI chatbot builder for businesses.",
+    "pricing": "Paid",
+    "image": "https://chatsimple.ai/assets/logo.png",
+    "website": "https://chatsimple.ai/"
+  },
+  {
+    "id": 97,
+    "name": "Taskade",
+    "category": "Writing",
+    "description": "AI-powered workspace for teams to brainstorm, plan, and execute projects.",
+    "pricing": "Free + Paid",
+    "image": "https://www.taskade.com/static/media/logo.e1a3d902.svg",
+    "website": "https://www.taskade.com/"
+  },
+  {
+    "id": 98,
+    "name": "Mindgrasp",
+    "category": "Writing",
+    "description": "AI tool for summarizing and extracting key information from various sources.",
+    "pricing": "Paid",
+    "image": "https://www.mindgrasp.ai/favicon.ico",
+    "website": "https://www.mindgrasp.ai/"
+  },
+  {
+    "id": 99,
+    "name": "WordStream",
+    "category": "Writing",
+    "description": "Online advertising and keyword research platform with AI insights.",
+    "pricing": "Paid",
+    "image": "https://www.wordstream.com/static/images/logo.png",
+    "website": "https://www.wordstream.com/"
+  },
+  {
+    "id": 100,
+    "name": "Clearscope",
+    "category": "Writing",
+    "description": "AI-powered content optimization platform for SEO.",
+    "pricing": "Paid",
+    "image": "https://www.clearscope.io/images/clearscope-logo.svg",
+    "website": "https://www.clearscope.io/"
+  },
+  {
+    "id": 101,
+    "name": "QuillBot",
+    "category": "Writing",
+    "description": "AI writing tool for paraphrasing, summarizing, and grammar checking.",
+    "pricing": "Free + Paid",
+    "image": "https://quillbot.com/images/favicon.png",
+    "website": "https://quillbot.com/"
+  },
+  {
+    "id": 102,
+    "name": "Respell",
+    "category": "Writing",
+    "description": "AI-powered writing and editing assistant.",
+    "pricing": "Paid",
+    "image": "https://respell.ai/logo.png",
+    "website": "https://respell.ai/"
+  },
+  {
+    "id": 103,
+    "name": "HyperWrite",
+    "category": "Writing",
+    "description": "AI writing assistant for various content types, from emails to articles.",
+    "pricing": "Free + Paid",
+    "image": "https://hyperwriteai.com/static/media/hyperwrite-logo.c922a969.svg",
+    "website": "https://hyperwriteai.com/"
+  },
+  {
+    "id": 104,
+    "name": "Notefolio",
+    "category": "Writing",
+    "description": "AI-powered note-taking and knowledge management.",
+    "pricing": "Paid",
+    "image": "https://notefolio.net/favicon.ico",
+    "website": "https://notefolio.net/"
+  },
+  {
+    "id": 105,
+    "name": "Google Bard",
+    "category": "Writing",
+    "description": "Conversational AI from Google, powered by large language models.",
+    "pricing": "Free",
+    "image": "https://www.google.com/favicon.ico",
+    "website": "https://bard.google.com/"
+  },
+  {
+    "id": 106,
+    "name": "Copilot",
+    "category": "Writing",
+    "description": "AI coding assistant and general-purpose writing aid.",
+    "pricing": "Paid",
+    "image": "https://github.githubassets.com/images/modules/site/codespaces/copilot-logo.png",
+    "website": "https://github.com/features/copilot"
+  },
+  {
+    "id": 107,
+    "name": "Notion AI",
+    "category": "Writing",
+    "description": "AI assistant integrated into Notion for writing, summarizing, and brainstorming.",
+    "pricing": "Free + Paid",
+    "image": "https://www.notion.so/images/notion-app-icon.png",
+    "website": "https://www.notion.so/product/ai"
+  },
+  {
+    "id": 108,
+    "name": "Grammarly",
+    "category": "Writing",
+    "description": "AI-powered writing assistant for grammar, spelling, and style.",
+    "pricing": "Free + Paid",
+    "image": "https://www.grammarly.com/cdn-cgi/image/width=100,format=auto,quality=85/static/images/logo.svg",
+    "website": "https://www.grammarly.com/"
+  },
+  {
+    "id": 109,
+    "name": "MarsAI",
+    "category": "Writing",
+    "description": "AI-powered marketing and content creation platform.",
+    "pricing": "Paid",
+    "image": "https://marsai.io/assets/img/logo.png",
+    "website": "https://marsai.io/"
+  },
+  {
+    "id": 110,
+    "name": "Text FX",
+    "category": "Writing",
+    "description": "AI tool for text effects and stylistic transformations.",
+    "pricing": "Varies",
+    "image": "https://textfx.com/favicon.ico",
+    "website": "https://textfx.com/"
+  },
+  {
+    "id": 111,
+    "name": "ChatGPT",
+    "category": "Writing",
+    "description": "OpenAI's large language model for conversational AI and content generation.",
+    "pricing": "Free + Paid",
+    "image": "https://openai.com/favicon.ico",
+    "website": "https://chat.openai.com/"
+  },
+  {
+    "id": 112,
+    "name": "Jenni AI",
+    "category": "Writing",
+    "description": "AI writing assistant for academic writing, research papers, and articles.",
+    "pricing": "Free + Paid",
+    "image": "https://jenni.ai/favicon.ico",
+    "website": "https://jenni.ai/"
+  },
+  {
+    "id": 113,
+    "name": "Rytr",
+    "category": "Writing",
+    "description": "AI writing assistant for generating various types of content quickly.",
+    "pricing": "Free + Paid",
+    "image": "https://rytr.me/favicon.ico",
+    "website": "https://rytr.me/"
+  },
+  {
+    "id": 114,
+    "name": "CopyAI",
+    "category": "Writing",
+    "description": "AI writing tool for marketing copy, social media content, and more.",
+    "pricing": "Free + Paid",
+    "image": "https://www.copy.ai/cdn-cgi/image/width=384,format=auto,quality=75/wp-content/uploads/2023/07/Copy_AI_Logo_Black.svg",
+    "website": "https://www.copy.ai/"
+  },
+  {
+    "id": 115,
+    "name": "Codeium",
+    "category": "Writing",
+    "description": "AI-powered coding assistant for autocompletion and code generation.",
+    "pricing": "Free",
+    "image": "https://www.codeium.com/images/logo_icon.svg",
+    "website": "https://www.codeium.com/"
+  },
+  {
+    "id": 116,
+    "name": "Claude",
+    "category": "Writing",
+    "description": "AI assistant developed by Anthropic, focused on helpful, harmless, and honest conversations.",
+    "pricing": "Free + Paid",
+    "image": "https://www.anthropic.com/images/favicon.ico",
+    "website": "https://www.anthropic.com/index/claude"
+  },
+  {
+    "id": 117,
+    "name": "Setupsi",
+    "category": "Writing",
+    "description": "AI-powered tool for business setup and management.",
+    "pricing": "Paid",
+    "image": "https://setupsi.com/assets/images/logo.png",
+    "website": "https://setupsi.com/"
+  },
+  {
+    "id": 118,
+    "name": "Hix",
+    "category": "Writing",
+    "description": "AI writing assistant for various content needs.",
+    "pricing": "Paid",
+    "image": "https://hix.ai/images/logo.svg",
+    "website": "https://hix.ai/"
+  },
+  {
+    "id": 119,
+    "name": "Monica",
+    "category": "Writing",
+    "description": "AI assistant for writing, summarizing, and brainstorming.",
+    "pricing": "Free + Paid",
+    "image": "https://monica.im/favicon.ico",
+    "website": "https://monica.im/"
+  },
+  {
+    "id": 120,
+    "name": "Iliq",
+    "category": "Marketing",
+    "description": "AI-powered platform for customer intelligence and engagement.",
+    "pricing": "Paid",
+    "image": "https://www.iliq.com/assets/images/logo.png",
+    "website": "https://www.iliq.com/"
+  },
+  {
+    "id": 121,
+    "name": "Semrush",
+    "category": "Marketing",
+    "description": "Comprehensive SEO and marketing toolkit with AI insights.",
+    "pricing": "Free + Paid",
+    "image": "https://www.semrush.com/favicon.ico",
+    "website": "https://www.semrush.com/"
+  },
+  {
+    "id": 122,
+    "name": "AdCopy",
+    "category": "Marketing",
+    "description": "AI-powered ad copy generator.",
+    "pricing": "Paid",
+    "image": "https://adcopy.ai/favicon.ico",
+    "website": "https://adcopy.ai/"
+  },
+  {
+    "id": 123,
+    "name": "AdCreative",
+    "category": "Marketing",
+    "description": "AI for generating high-performing ad creatives.",
+    "pricing": "Paid",
+    "image": "https://adcreative.ai/favicon.ico",
+    "website": "https://adcreative.ai/"
+  },
+  {
+    "id": 124,
+    "name": "Madgicx",
+    "category": "Marketing",
+    "description": "AI-powered advertising automation platform.",
+    "pricing": "Paid",
+    "image": "https://madgicx.com/favicon.ico",
+    "website": "https://madgicx.com/"
+  },
+  {
+    "id": 125,
+    "name": "Plai",
+    "category": "Marketing",
+    "description": "AI-powered marketing platform for creating and managing campaigns.",
+    "pricing": "Paid",
+    "image": "https://plai.io/assets/images/logo.png",
+    "website": "https://plai.io/"
+  },
+  {
+    "id": 126,
+    "name": "Pencil",
+    "category": "Marketing",
+    "description": "AI-powered ad creative generation and optimization.",
+    "pricing": "Paid",
+    "image": "https://www.trypencil.com/favicon.ico",
+    "website": "https://www.trypencil.com/"
+  },
+  {
+    "id": 127,
+    "name": "Tiidy",
+    "category": "Marketing",
+    "description": "AI tool for organizing and managing marketing assets.",
+    "pricing": "Paid",
+    "image": "https://tiidy.com/favicon.ico",
+    "website": "https://tiidy.com/"
+  },
+  {
+    "id": 128,
+    "name": "Tldv",
+    "category": "Marketing",
+    "description": "AI meeting recorder and transcriber for quick summaries.",
+    "pricing": "Free + Paid",
+    "image": "https://tldv.io/favicon.ico",
+    "website": "https://tldv.io/"
+  },
+  {
+    "id": 129,
+    "name": "Leap",
+    "category": "Marketing",
+    "description": "AI platform for building and deploying AI models, including for marketing applications.",
+    "pricing": "Paid",
+    "image": "https://www.leap.ai/favicon.ico",
+    "website": "https://www.leap.ai/"
+  },
+  {
+    "id": 130,
+    "name": "VEED.IO",
+    "category": "Video",
+    "description": "Online video editor with AI features for editing, transcription, and more.",
+    "pricing": "Free + Paid",
+    "image": "https://www.veed.io/favicon.ico",
+    "website": "https://www.veed.io/"
+  },
+  {
+    "id": 131,
+    "name": "Imaginica",
+    "category": "Video",
+    "description": "AI-powered video creation and editing tool.",
+    "pricing": "Paid",
+    "image": "https://imaginica.ai/favicon.ico",
+    "website": "https://imaginica.ai/"
+  },
+  {
+    "id": 132,
+    "name": "HeyGen",
+    "category": "Video",
+    "description": "AI video generator for creating professional videos with AI avatars.",
+    "pricing": "Free + Paid",
+    "image": "https://www.heygen.com/favicon.ico",
+    "website": "https://www.heygen.com/"
+  },
+  {
+    "id": 133,
+    "name": "Fliki",
+    "category": "Video",
+    "description": "AI text-to-video and text-to-speech converter.",
+    "pricing": "Free + Paid",
+    "image": "https://fliki.ai/favicon.ico",
+    "website": "https://fliki.ai/"
+  },
+  {
+    "id": 134,
+    "name": "Simplified",
+    "category": "Video",
+    "description": "All-in-one AI platform for design, video, writing, and social media.",
+    "pricing": "Free + Paid",
+    "image": "https://simplified.com/favicon.ico",
+    "website": "https://simplified.com/"
+  },
+  {
+    "id": 135,
+    "name": "Durable",
+    "category": "Video",
+    "description": "AI website builder that also offers AI-powered content creation.",
+    "pricing": "Paid",
+    "image": "https://durable.co/favicon.ico",
+    "website": "https://durable.co/"
+  },
+  {
+    "id": 136,
+    "name": "11 Labs",
+    "category": "Video",
+    "description": "AI voice synthesis and text-to-speech platform.",
+    "pricing": "Free + Paid",
+    "image": "https://elevenlabs.io/favicon.ico",
+    "website": "https://elevenlabs.io/"
+  },
+  {
+    "id": 137,
+    "name": "PixelMe",
+    "category": "Video",
+    "description": "URL shortener and analytics tool with retargeting capabilities.",
+    "pricing": "Paid",
+    "image": "https://pixelme.me/favicon.ico",
+    "website": "https://pixelme.me/"
+  },
+  {
+    "id": 138,
+    "name": "Descript",
+    "category": "Video",
+    "description": "All-in-one audio and video editor with AI transcription and editing features.",
+    "pricing": "Free + Paid",
+    "image": "https://www.descript.com/favicon.ico",
+    "website": "https://www.descript.com/"
+  },
+  {
+    "id": 139,
+    "name": "Shuffl",
+    "category": "Video",
+    "description": "AI-powered tool for creating and sharing video stories.",
+    "pricing": "Paid",
+    "image": "https://shuffl.io/favicon.ico",
+    "website": "https://shuffl.io/"
+  },
+  {
+    "id": 140,
+    "name": "Synthesys",
+    "category": "Video",
+    "description": "AI video and voice generation platform.",
+    "pricing": "Paid",
+    "image": "https://synthesys.io/favicon.ico",
+    "website": "https://synthesys.io/"
+  },
+  {
+    "id": 141,
+    "name": "Canva",
+    "category": "Video",
+    "description": "Graphic design platform with AI-powered features for image and video creation.",
+    "pricing": "Free + Paid",
+    "image": "https://www.canva.com/favicon.ico",
+    "website": "https://www.canva.com/"
+  },
+  {
+    "id": 142,
+    "name": "Zapier",
+    "category": "Video",
+    "description": "Automation tool that connects various apps and can integrate AI services.",
+    "pricing": "Free + Paid",
+    "image": "https://zapier.com/favicon.ico",
+    "website": "https://zapier.com/"
+  },
+  {
+    "id": 143,
+    "name": "DeepAI",
+    "category": "Video",
+    "description": "Platform offering various AI tools, including image and text generation.",
+    "pricing": "Free + Paid",
+    "image": "https://deepai.org/favicon.ico",
+    "website": "https://deepai.org/"
+  },
+  {
+    "id": 144,
+    "name": "Safrural",
+    "category": "Design",
+    "description": "AI-powered design tool with a focus on ease of use.",
+    "pricing": "Paid",
+    "image": "https://www.safrural.com/favicon.ico",
+    "website": "https://www.safrural.com/"
+  },
+  {
+    "id": 145,
+    "name": "Replit",
+    "category": "Design",
+    "description": "Online IDE with AI coding assistance.",
+    "pricing": "Free + Paid",
+    "image": "https://replit.com/favicon.ico",
+    "website": "https://replit.com/"
+  },
+  {
+    "id": 146,
+    "name": "MakeLogo",
+    "category": "Design",
+    "description": "AI-powered logo maker for creating custom logos.",
+    "pricing": "Paid",
+    "image": "https://makelogo.ai/favicon.ico",
+    "website": "https://makelogo.ai/"
+  },
+  {
+    "id": 147,
+    "name": "Phind",
+    "category": "Design",
+    "description": "AI search engine for developers, providing code examples and explanations.",
+    "pricing": "Free",
+    "image": "https://www.phind.com/favicon.ico",
+    "website": "https://www.phind.com/"
+  },
+  {
+    "id": 148,
+    "name": "Looka",
+    "category": "Design",
+    "description": "AI-powered logo and brand identity design platform.",
+    "pricing": "Paid",
+    "image": "https://looka.com/favicon.ico",
+    "website": "https://looka.com/"
+  },
+  {
+    "id": 149,
+    "name": "Brandmark",
+    "category": "Design",
+    "description": "AI logo maker and brand identity generator.",
+    "pricing": "Paid",
+    "image": "https://brandmark.io/favicon.ico",
+    "website": "https://brandmark.io/"
+  },
+  {
+    "id": 150,
+    "name": "Playground",
+    "category": "Design",
+    "description": "AI image generation platform for creating art and visuals.",
+    "pricing": "Free + Paid",
+    "image": "https://playgroundai.com/favicon.ico",
+    "website": "https://playgroundai.com/"
+  },
+  {
+    "id": 151,
+    "name": "Designs",
+    "category": "Design",
+    "description": "AI-powered design tool for various creative assets.",
+    "pricing": "Varies",
+    "image": "https://designs.ai/favicon.ico",
+    "website": "https://designs.ai/"
+  },
+  {
+    "id": 152,
+    "name": "Dribbble",
+    "category": "Design",
+    "description": "Community and platform for designers, often showcasing AI-generated designs.",
+    "pricing": "Free + Paid",
+    "image": "https://cdn.dribbble.com/assets/favicon-8521074e4ce75c7429676e6556b693521d1ee67406a0a0307ee4b2c15904d99c.ico",
+    "website": "https://dribbble.com/"
+  },
+  {
+    "id": 153,
+    "name": "Ideogram",
+    "category": "Design",
+    "description": "AI image and logo generation from text prompts.",
+    "pricing": "Free + Paid",
+    "image": "https://ideogram.ai/favicon.ico",
+    "website": "https://ideogram.ai/"
+  },
+  {
+    "id": 154,
+    "name": "Namecheap",
+    "category": "Design",
+    "description": "Domain registrar and hosting company offering website building tools.",
+    "pricing": "Paid",
+    "image": "https://www.namecheap.com/favicon.ico",
+    "website": "https://www.namecheap.com/"
+  },
+  {
+    "id": 155,
+    "name": "Firefly",
+    "category": "Design",
+    "description": "Adobe's family of creative generative AI models.",
+    "pricing": "Free + Paid",
+    "image": "https://firefly.adobe.com/favicon.ico",
+    "website": "https://firefly.adobe.com/"
+  },
+  {
+    "id": 156,
+    "name": "SeaArt",
+    "category": "Design",
+    "description": "AI art generation platform.",
+    "pricing": "Free + Paid",
+    "image": "https://www.seaart.ai/favicon.ico",
+    "website": "https://www.seaart.ai/"
+  },
+  {
+    "id": 157,
+    "name": "Midjourney",
+    "category": "Design",
+    "description": "AI art generator that creates images from text descriptions.",
+    "pricing": "Paid",
+    "image": "https://www.midjourney.com/favicon.ico",
+    "website": "https://www.midjourney.com/"
+  },
+  {
+    "id": 158,
+    "name": "Leonardo",
+    "category": "Design",
+    "description": "AI art and image generation platform.",
+    "pricing": "Free + Paid",
+    "image": "https://leonardo.ai/favicon.ico",
+    "website": "https://leonardo.ai/"
+  },
+  {
+    "id": 159,
+    "name": "DALL-E2",
+    "category": "Design",
+    "description": "OpenAI's AI system that creates realistic images and art from a text description.",
+    "pricing": "Paid",
+    "image": "https://openai.com/favicon.ico",
+    "website": "https://openai.com/dall-e-2/"
+  },
+  {
+    "id": 160,
+    "name": "Lucidpic",
+    "category": "Design",
+    "description": "AI image generation and editing tool.",
+    "pricing": "Paid",
+    "image": "https://lucidpic.com/favicon.ico",
+    "website": "https://lucidpic.com/"
+  },
+  {
+    "id": 161,
+    "name": "ChatGPT",
+    "category": "AI Chatbots",
+    "description": "OpenAI's large language model for conversational AI and content generation.",
+    "pricing": "Free + Paid",
+    "image": "https://openai.com/favicon.ico",
+    "website": "https://chat.openai.com/"
+  },
+  {
+    "id": 162,
+    "name": "Claude",
+    "category": "AI Chatbots",
+    "description": "AI assistant developed by Anthropic, focused on helpful, harmless, and honest conversations.",
+    "pricing": "Free + Paid",
+    "image": "https://www.anthropic.com/images/favicon.ico",
+    "website": "https://www.anthropic.com/index/claude"
+  },
+  {
+    "id": 163,
+    "name": "DeepSeek",
+    "category": "AI Chatbots",
+    "description": "An open-source AI model designed for code and general language tasks.",
+    "pricing": "Free",
+    "image": "https://deepseek.com/favicon.ico",
+    "website": "https://deepseek.com/"
+  },
+  {
+    "id": 164,
+    "name": "Gemini",
+    "category": "AI Chatbots",
+    "description": "Google's most capable and flexible AI model, designed for multimodal reasoning.",
+    "pricing": "Free + Paid",
+    "image": "https://www.google.com/favicon.ico",
+    "website": "https://gemini.google.com/"
+  },
+  {
+    "id": 165,
+    "name": "Grok",
+    "category": "AI Chatbots",
+    "description": "AI chatbot from xAI, designed to answer questions with a bit of wit and access to real-time information from X.",
+    "pricing": "Paid (with X Premium+)",
+    "image": "https://grok.ai/favicon.ico",
+    "website": "https://grok.ai/"
+  },
+  {
+    "id": 166,
+    "name": "Meta AI",
+    "category": "AI Chatbots",
+    "description": "Meta's conversational AI assistant integrated across its platforms.",
+    "pricing": "Free",
+    "image": "https://about.meta.com/favicon.ico",
+    "website": "https://ai.meta.com/"
+  },
+  {
+    "id": 167,
+    "name": "MS Copilot",
+    "category": "AI Chatbots",
+    "description": "Microsoft's AI assistant integrated into Windows, Microsoft 365, and Edge, designed to boost productivity.",
+    "pricing": "Free + Paid (for M365 integration)",
+    "image": "https://www.microsoft.com/favicon.ico",
+    "website": "https://www.microsoft.com/en-us/microsoft-copilot"
+  },
+  {
+    "id": 168,
+    "name": "Perplexity",
+    "category": "AI Chatbots",
+    "description": "AI-powered conversational answer engine with source citations.",
+    "pricing": "Free + Paid",
+    "image": "https://www.perplexity.ai/favicon.ico",
+    "website": "https://www.perplexity.ai/"
+  },
+  {
+    "id": 169,
+    "name": "Beautiful.AI",
+    "category": "AI Presentation",
+    "description": "AI presentation maker that helps design stunning slides quickly.",
+    "pricing": "Paid",
+    "image": "https://www.beautiful.ai/favicon.ico",
+    "website": "https://www.beautiful.ai/"
+  },
+  {
+    "id": 170,
+    "name": "Gamma",
+    "category": "AI Presentation",
+    "description": "AI tool for creating engaging presentations, documents, and webpages from text.",
+    "pricing": "Free + Paid",
+    "image": "https://gamma.app/favicon.ico",
+    "website": "https://gamma.app/"
+  },
+  {
+    "id": 171,
+    "name": "Pitch",
+    "category": "AI Presentation",
+    "description": "Collaborative presentation software with AI features to help build compelling decks.",
+    "pricing": "Free + Paid",
+    "image": "https://pitch.com/favicon.ico",
+    "website": "https://pitch.com/"
+  },
+  {
+    "id": 172,
+    "name": "Plus",
+    "category": "AI Presentation",
+    "description": "AI tool for generating and editing slides directly in Google Slides.",
+    "pricing": "Free + Paid",
+    "image": "https://www.plusdocs.com/favicon.ico",
+    "website": "https://www.plusdocs.com/"
+  },
+  {
+    "id": 173,
+    "name": "PopAI",
+    "category": "AI Presentation",
+    "description": "AI presentation generator that creates professional slides from your content.",
+    "pricing": "Paid",
+    "image": "https://www.popai.io/assets/images/logo.png",
+    "website": "https://www.popai.io/"
+  },
+  {
+    "id": 174,
+    "name": "Presentation.AI",
+    "category": "AI Presentation",
+    "description": "AI-powered platform to create presentations quickly and efficiently.",
+    "pricing": "Paid",
+    "image": "https://presentation.ai/favicon.ico",
+    "website": "https://presentation.ai/"
+  },
+  {
+    "id": 175,
+    "name": "Slidesgo",
+    "category": "AI Presentation",
+    "description": "Platform offering free Google Slides themes and PowerPoint templates, now with AI features for creation.",
+    "pricing": "Free + Paid",
+    "image": "https://slidesgo.com/favicon.ico",
+    "website": "https://slidesgo.com/"
+  },
+  {
+    "id": 176,
+    "name": "AskCodi",
+    "category": "AI Coding Assistance",
+    "description": "AI coding assistant that generates code, explains code, and helps with debugging.",
+    "pricing": "Free + Paid",
+    "image": "https://www.askcodi.com/favicon.ico",
+    "website": "https://www.askcodi.com/"
+  },
+  {
+    "id": 177,
+    "name": "Cogram",
+    "category": "AI Coding Assistance",
+    "description": "AI tool that automates meeting notes and integrates with CRM and project management tools.",
+    "pricing": "Paid",
+    "image": "https://cogram.com/favicon.ico",
+    "website": "https://cogram.com/"
+  },
+  {
+    "id": 178,
+    "name": "Cursor",
+    "category": "AI Coding Assistance",
+    "description": "AI-first code editor that helps you write, debug, and understand code faster.",
+    "pricing": "Free + Paid",
+    "image": "https://cursor.sh/favicon.ico",
+    "website": "https://cursor.sh/"
+  },
+  {
+    "id": 179,
+    "name": "Mailmateo",
+    "category": "AI Coding Assistance",
+    "description": "AI tool for automating email responses and managing inboxes.",
+    "pricing": "Paid",
+    "image": "https://mailmateo.com/favicon.ico",
+    "website": "https://mailmateo.com/"
+  },
+  {
+    "id": 180,
+    "name": "Shortwave",
+    "category": "AI Coding Assistance",
+    "description": "AI-powered email client that organizes and summarizes your inbox.",
+    "pricing": "Free + Paid",
+    "image": "https://www.shortwave.com/favicon.ico",
+    "website": "https://www.shortwave.com/"
+  },
+  {
+    "id": 181,
+    "name": "Integrately",
+    "category": "AI Email Automation",
+    "description": "Automation platform to connect apps and automate workflows, including email tasks.",
+    "pricing": "Free + Paid",
+    "image": "https://integrately.com/favicon.ico",
+    "website": "https://integrately.com/"
+  },
+  {
+    "id": 182,
+    "name": "Make",
+    "category": "AI Email Automation",
+    "description": "Visual platform for automating workflows and integrating apps, including email automation.",
+    "pricing": "Free + Paid",
+    "image": "https://www.make.com/favicon.ico",
+    "website": "https://www.make.com/"
+  },
+  {
+    "id": 183,
+    "name": "monday.com",
+    "category": "AI Email Automation",
+    "description": "Work operating system that allows teams to manage projects and automate tasks, including email notifications.",
+    "pricing": "Free + Paid",
+    "image": "https://monday.com/favicon.ico",
+    "website": "https://monday.com/"
+  },
+  {
+    "id": 184,
+    "name": "Wrike",
+    "category": "AI Email Automation",
+    "description": "Project management software with automation features that can include email triggers.",
+    "pricing": "Free + Paid",
+    "image": "https://www.wrike.com/favicon.ico",
+    "website": "https://www.wrike.com/"
+  },
+  {
+    "id": 185,
+    "name": "Zapier",
+    "category": "AI Email Automation",
+    "description": "Automation tool that connects various apps and can automate email tasks.",
+    "pricing": "Free + Paid",
+    "image": "https://zapier.com/favicon.ico",
+    "website": "https://zapier.com/"
+  },
+  {
+    "id": 186,
+    "name": "Adobe Firefly",
+    "category": "AI Image Generation",
+    "description": "Adobe's family of creative generative AI models for image and text effects.",
+    "pricing": "Free + Paid",
+    "image": "https://firefly.adobe.com/favicon.ico",
+    "website": "https://firefly.adobe.com/"
+  },
+  {
+    "id": 187,
+    "name": "DALL-E 2",
+    "category": "AI Image Generation",
+    "description": "OpenAI's AI system that creates realistic images and art from a text description.",
+    "pricing": "Paid",
+    "image": "https://openai.com/favicon.ico",
+    "website": "https://openai.com/dall-e-2/"
+  },
+  {
+    "id": 188,
+    "name": "FLUX 1",
+    "category": "AI Image Generation",
+    "description": "An AI tool for generating images and creative designs.",
+    "pricing": "Varies",
+    "image": "https://flux.ai/favicon.ico",
+    "website": "https://flux.ai/"
+  },
+  {
+    "id": 189,
+    "name": "Ideagram",
+    "category": "AI Image Generation",
+    "description": "AI image and logo generation from text prompts.",
+    "pricing": "Free + Paid",
+    "image": "https://ideogram.ai/favicon.ico",
+    "website": "https://ideogram.ai/"
+  },
+  {
+    "id": 190,
+    "name": "Leonardo.AI",
+    "category": "AI Image Generation",
+    "description": "AI art and image generation platform with advanced control.",
+    "pricing": "Free + Paid",
+    "image": "https://leonardo.ai/favicon.ico",
+    "website": "https://leonardo.ai/"
+  },
+  {
+    "id": 191,
+    "name": "StableDiffusion",
+    "category": "AI Image Generation",
+    "description": "A popular open-source deep learning model for generating images from text.",
+    "pricing": "Free (open source) / Paid (services)",
+    "image": "https://stablediffusionweb.com/favicon.ico",
+    "website": "https://stablediffusionweb.com/"
+  },
+  {
+    "id": 192,
+    "name": "Bricks",
+    "category": "AI Spreadsheet",
+    "description": "AI assistant for data analysis and generation within spreadsheets.",
+    "pricing": "Paid",
+    "image": "https://bricks.ai/favicon.ico",
+    "website": "https://bricks.ai/"
+  },
+  {
+    "id": 193,
+    "name": "Formelous",
+    "category": "AI Spreadsheet",
+    "description": "AI tool for generating and manipulating formulas in spreadsheets.",
+    "pricing": "Paid",
+    "image": "https://formelous.com/favicon.ico",
+    "website": "https://formelous.com/"
+  },
+  {
+    "id": 194,
+    "name": "Glide",
+    "category": "AI Spreadsheet",
+    "description": "Platform to create apps from spreadsheets without code, with AI capabilities.",
+    "pricing": "Free + Paid",
+    "image": "https://www.glideapps.com/favicon.ico",
+    "website": "https://www.glideapps.com/"
+  },
+  {
+    "id": 195,
+    "name": "Rows",
+    "category": "AI Spreadsheet",
+    "description": "Spreadsheet with built-in AI functions for data analysis and automation.",
+    "pricing": "Free + Paid",
+    "image": "https://rows.com/favicon.ico",
+    "website": "https://rows.com/"
+  },
+  {
+    "id": 196,
+    "name": "SheetAI",
+    "category": "AI Spreadsheet",
+    "description": "AI add-on for Google Sheets to perform various tasks using AI models.",
+    "pricing": "Free + Paid",
+    "image": "https://sheetai.app/favicon.ico",
+    "website": "https://sheetai.app/"
+  },
+  {
+    "id": 197,
+    "name": "Avoma",
+    "category": "AI Meeting Notes",
+    "description": "AI meeting assistant that records, transcribes, summarizes, and analyzes conversations.",
+    "pricing": "Paid",
+    "image": "https://avoma.com/favicon.ico",
+    "website": "https://avoma.com/"
+  },
+  {
+    "id": 198,
+    "name": "Equal Time",
+    "category": "AI Meeting Notes",
+    "description": "AI tool to ensure equitable speaking time in meetings and generate summaries.",
+    "pricing": "Paid",
+    "image": "https://equaltime.io/favicon.ico",
+    "website": "https://equaltime.io/"
+  },
+  {
+    "id": 199,
+    "name": "Fireflies",
+    "category": "AI Meeting Notes",
+    "description": "AI assistant for transcribing, summarizing, and analyzing voice conversations from meetings.",
+    "pricing": "Free + Paid",
+    "image": "https://fireflies.ai/favicon.ico",
+    "website": "https://fireflies.ai/"
+  },
+  {
+    "id": 200,
+    "name": "Fellow App",
+    "category": "AI Meeting Notes",
+    "description": "Meeting management platform with AI features for agendas, notes, and action items.",
+    "pricing": "Free + Paid",
+    "image": "https://fellow.app/favicon.ico",
+    "website": "https://fellow.app/"
+  },
+  {
+    "id": 201,
+    "name": "Fathom",
+    "category": "AI Meeting Notes",
+    "description": "AI meeting assistant that records, transcribes, highlights, and summarizes video calls.",
+    "pricing": "Free + Paid",
+    "image": "https://fathom.video/favicon.ico",
+    "website": "https://fathom.video/"
+  },
+  {
+    "id": 202,
+    "name": "Krisp",
+    "category": "AI Meeting Notes",
+    "description": "AI-powered noise cancellation app for online meetings and calls.",
+    "pricing": "Free + Paid",
+    "image": "https://krisp.ai/favicon.ico",
+    "website": "https://krisp.ai/"
+  },
+  {
+    "id": 203,
+    "name": "N8h",
+    "category": "AI Workflow Automation",
+    "description": "An AI workflow automation tool to streamline repetitive tasks.",
+    "pricing": "Paid",
+    "image": "https://n8n.io/favicon.ico",
+    "website": "https://n8n.io/"
+  },
+  {
+    "id": 204,
+    "name": "Copy.ai",
+    "category": "AI Writing Generation",
+    "description": "AI writing tool for marketing copy, social media content, and more.",
+    "pricing": "Free + Paid",
+    "image": "https://www.copy.ai/cdn-cgi/image/width=384,format=auto,quality=75/wp-content/uploads/2023/07/Copy_AI_Logo_Black.svg",
+    "website": "https://www.copy.ai/"
+  },
+  {
+    "id": 205,
+    "name": "Grammarly",
+    "category": "AI Writing Generation",
+    "description": "AI-powered writing assistant for grammar, spelling, and style.",
+    "pricing": "Free + Paid",
+    "image": "https://www.grammarly.com/cdn-cgi/image/width=100,format=auto,quality=85/static/images/logo.svg",
+    "website": "https://www.grammarly.com/"
+  },
+  {
+    "id": 206,
+    "name": "Jasper",
+    "category": "AI Writing Generation",
+    "description": "AI content platform for generating high-quality marketing copy, blog posts, and more.",
+    "pricing": "Paid",
+    "image": "https://www.jasper.ai/favicon.ico",
+    "website": "https://www.jasper.ai/"
+  },
+  {
+    "id": 207,
+    "name": "Rytr",
+    "category": "AI Writing Generation",
+    "description": "AI writing assistant for generating various types of content quickly.",
+    "pricing": "Free + Paid",
+    "image": "https://rytr.me/favicon.ico",
+    "website": "https://rytr.me/"
+  },
+  {
+    "id": 208,
+    "name": "Sudowrite",
+    "category": "AI Writing Generation",
+    "description": "AI writing partner for fiction authors to brainstorm, write, and edit stories.",
+    "pricing": "Paid",
+    "image": "https://www.sudowrite.com/favicon.ico",
+    "website": "https://www.sudowrite.com/"
+  },
+  {
+    "id": 209,
+    "name": "Writesonic",
+    "category": "AI Writing Generation",
+    "description": "AI writing assistant for generating articles, blog posts, ads, and more.",
+    "pricing": "Free + Paid",
+    "image": "https://writesonic.com/favicon.ico",
+    "website": "https://writesonic.com/"
+  },
+  {
+    "id": 210,
+    "name": "Calendly",
+    "category": "AI Scheduling",
+    "description": "Automated scheduling software that uses AI to suggest optimal meeting times.",
+    "pricing": "Free + Paid",
+    "image": "https://calendly.com/favicon.ico",
+    "website": "https://calendly.com/"
+  },
+  {
+    "id": 211,
+    "name": "Copyolam",
+    "category": "AI Scheduling",
+    "description": "An AI tool for generating and optimizing marketing copy, potentially with scheduling features.",
+    "pricing": "Paid",
+    "image": "https://copyolam.com/favicon.ico",
+    "website": "https://copyolam.com/"
+  },
+  {
+    "id": 212,
+    "name": "Descript",
+    "category": "AI Scheduling",
+    "description": "All-in-one audio and video editor with AI transcription and editing features, and potentially scheduling for recordings.",
+    "pricing": "Free + Paid",
+    "image": "https://www.descript.com/favicon.ico",
+    "website": "https://www.descript.com/"
+  },
+  {
+    "id": 213,
+    "name": "Hoplipher",
+    "category": "AI Scheduling",
+    "description": "An AI-powered scheduling assistant for personal and professional use.",
+    "pricing": "Varies",
+    "image": "https://hoplipher.com/favicon.ico",
+    "website": "https://hoplipher.com/"
+  },
+  {
+    "id": 214,
+    "name": "Reclaim",
+    "category": "AI Scheduling",
+    "description": "AI assistant that intelligently schedules your tasks and meetings to optimize your calendar.",
+    "pricing": "Free + Paid",
+    "image": "https://reclaim.ai/favicon.ico",
+    "website": "https://reclaim.ai/"
+  },
+  {
+    "id": 215,
+    "name": "Trevor AI",
+    "category": "AI Scheduling",
+    "description": "AI-powered calendar and task management tool.",
+    "pricing": "Paid",
+    "image": "https://trevor.ai/favicon.ico",
+    "website": "https://trevor.ai/"
+  },
+  {
+    "id": 216,
+    "name": "Deepbrain",
+    "category": "AI Video Generation",
+    "description": "AI video generator for creating realistic AI human videos from text.",
+    "pricing": "Paid",
+    "image": "https://www.deepbrain.ai/favicon.ico",
+    "website": "https://www.deepbrain.ai/"
+  },
+  {
+    "id": 217,
+    "name": "Hopifyer AI",
+    "category": "AI Video Generation",
+    "description": "AI tool for generating creative content, potentially including video.",
+    "pricing": "Varies",
+    "image": "https://hopifyer.com/favicon.ico",
+    "website": "https://hopifyer.com/"
+  },
+  {
+    "id": 218,
+    "name": "Lumen5",
+    "category": "AI Video Generation",
+    "description": "AI video maker that turns text into engaging videos automatically.",
+    "pricing": "Free + Paid",
+    "image": "https://lumen5.com/favicon.ico",
+    "website": "https://lumen5.com/"
+  },
+  {
+    "id": 219,
+    "name": "NOVA AI",
+    "category": "AI Video Generation",
+    "description": "AI video editor and generator with features for content creation.",
+    "pricing": "Free + Paid",
+    "image": "https://nova.ai/favicon.ico",
+    "website": "https://nova.ai/"
+  },
+  {
+    "id": 220,
+    "name": "LTX Studio",
+    "category": "AI Video Generation",
+    "description": "A comprehensive AI-powered film studio for creating videos from script to screen.",
+    "pricing": "Paid",
+    "image": "https://www.lightricks.com/favicon.ico",
+    "website": "https://www.lightricks.com/ltx/"
+  },
+  {
+    "id": 221,
+    "name": "Synthesia",
+    "category": "AI Video Generation",
+    "description": "AI video generation platform for creating videos with AI avatars in minutes.",
+    "pricing": "Paid",
+    "image": "https://www.synthesia.io/favicon.ico",
+    "website": "https://www.synthesia.io/"
+  },
+  {
+    "id": 222,
+    "name": "Runway",
+    "category": "AI Video Generation",
+    "description": "AI magic tools for video editing, generation, and creative content.",
+    "pricing": "Free + Paid",
+    "image": "https://runwayml.com/favicon.ico",
+    "website": "https://runwayml.com/"
+  },
+  {
+    "id": 223,
+    "name": "Otter",
+    "category": "AI Video Generation",
+    "description": "AI meeting assistant that records, transcribes, and summarizes conversations.",
+    "pricing": "Free + Paid",
+    "image": "https://otter.ai/favicon.ico",
+    "website": "https://otter.ai/"
+  },
+  {
+    "id": 224,
+    "name": "Motion",
+    "category": "AI Video Generation",
+    "description": "AI-powered project management and scheduling tool, potentially with motion graphics features.",
+    "pricing": "Paid",
+    "image": "https://usemotion.com/favicon.ico",
+    "website": "https://usemotion.com/"
+  },
+  {
+    "id": 225,
+    "name": "Tevtra",
+    "category": "AI Video Generation",
+    "description": "An AI-powered video creation and editing platform.",
+    "pricing": "Varies",
+    "image": "https://tevtra.com/favicon.ico",
+    "website": "https://tevtra.com/"
+  },
+  {
+    "id": 226,
+    "name": "AutoDraw",
+    "category": "AI Graphic Design",
+    "description": "AI experiment by Google that pairs machine learning with drawings to help you create.",
+    "pricing": "Free",
+    "image": "https://www.autodraw.com/favicon.ico",
+    "website": "https://www.autodraw.com/"
+  },
+  {
+    "id": 227,
+    "name": "Canva",
+    "category": "AI Graphic Design",
+    "description": "Graphic design platform with AI-powered features for image and video creation.",
+    "pricing": "Free + Paid",
+    "image": "https://www.canva.com/favicon.ico",
+    "website": "https://www.canva.com/"
+  },
+  {
+    "id": 228,
+    "name": "CircuitAI",
+    "category": "AI Graphic Design",
+    "description": "AI-powered tool for designing circuit boards and electronics.",
+    "pricing": "Paid",
+    "image": "https://circuitai.com/favicon.ico",
+    "website": "https://circuitai.com/"
+  },
+  {
+    "id": 229,
+    "name": "Tableau",
+    "category": "AI Graphic Design",
+    "description": "Data visualization and business intelligence tool with AI insights for creating interactive dashboards.",
+    "pricing": "Paid",
+    "image": "https://www.tableau.com/favicon.ico",
+    "website": "https://www.tableau.com/"
+  },
+  {
+    "id": 230,
+    "name": "Visme",
+    "category": "AI Graphic Design",
+    "description": "Online design tool for creating presentations, infographics, and other visual content with AI features.",
+    "pricing": "Free + Paid",
+    "image": "https://www.visme.co/favicon.ico",
+    "website": "https://www.visme.co/"
+  },
+  {
+    "id": 231,
+    "name": "Deckalit",
+    "category": "AI Data Visualization",
+    "description": "AI tool for generating data visualizations and presentations from data.",
+    "pricing": "Paid",
+    "image": "https://deckalit.com/favicon.ico",
+    "website": "https://deckalit.com/"
+  },
+  {
+    "id": 232,
+    "name": "Flourish",
+    "category": "AI Data Visualization",
+    "description": "Platform for creating interactive data visualizations and stories.",
+    "pricing": "Free + Paid",
+    "image": "https://flourish.studio/favicon.ico",
+    "website": "https://flourish.studio/"
+  },
+  {
+    "id": 233,
+    "name": "Juice",
+    "category": "AI Data Visualization",
+    "description": "AI-powered platform for generating insights and visualizations from data.",
+    "pricing": "Paid",
+    "image": "https://juice.ai/favicon.ico",
+    "website": "https://juice.ai/"
+  },
+  
+  {
+    "id": 234,
+    "name": "Integrately",
+    "category": "AI Workflow Automation",
+    "description": "Automation platform to connect apps and automate workflows, often using AI for smarter connections.",
+    "pricing": "Free + Paid",
+    "image": "https://integrately.com/favicon.ico",
+    "website": "https://integrately.com/"
+  },
+  {
+    "id": 235,
+    "name": "Make",
+    "category": "AI Workflow Automation",
+    "description": "Visual platform for automating workflows and integrating apps, often with AI capabilities.",
+    "pricing": "Free + Paid",
+    "image": "https://www.make.com/favicon.ico",
+    "website": "https://www.make.com/"
+  },
+  {
+    "id": 236,
+    "name": "monday.com",
+    "category": "AI Workflow Automation",
+    "description": "Work operating system that allows teams to manage projects and automate tasks, often leveraging AI.",
+    "pricing": "Free + Paid",
+    "image": "https://monday.com/favicon.ico",
+    "website": "https://monday.com/"
+  },
+  {
+    "id": 237,
+    "name": "Wrike",
+    "category": "AI Workflow Automation",
+    "description": "Project management software with automation features and AI integrations to streamline workflows.",
+    "pricing": "Free + Paid",
+    "image": "https://www.wrike.com/favicon.ico",
+    "website": "https://www.wrike.com/"
+  },
+  {
+    "id": 238,
+    "name": "N8h",
+    "category": "AI Workflow Automation",
+    "description": "A workflow automation tool designed for complex integrations, often involving AI steps.",
+    "pricing": "Free + Paid",
+    "image": "https://n8n.io/favicon.ico",
+    "website": "https://n8n.io/"
+  },
+  {
+    "id": 239,
+    "name": "Tableau",
+    "category": "AI Data Visualization",
+    "description": "Data visualization and business intelligence tool with AI insights for creating interactive dashboards.",
+    "pricing": "Paid",
+    "image": "https://www.tableau.com/favicon.ico",
+    "website": "https://www.tableau.com/"
+  },
+  {
+    "id": 240,
+    "name": "AutoDraw",
+    "category": "AI Graphic Design",
+    "description": "An AI experiment by Google that helps users draw and create simple graphics by suggesting improved shapes.",
+    "pricing": "Free",
+    "image": "https://www.autodraw.com/favicon.ico",
+    "website": "https://www.autodraw.com/"
+  },
+  {
+    "id": 241,
+    "name": "Canva",
+    "category": "AI Graphic Design",
+    "description": "A popular graphic design platform that integrates AI-powered features for easy content creation, including smart resizing and background removal.",
+    "pricing": "Free + Paid",
+    "image": "https://www.canva.com/favicon.ico",
+    "website": "https://www.canva.com/"
+  },
+  {
+    "id": 242,
+    "name": "CircuitAI",
+    "category": "AI Graphic Design",
+    "description": "An AI-powered tool for designing and optimizing electronic circuits.",
+    "pricing": "Paid",
+    "image": "https://circuitai.com/favicon.ico",
+    "website": "https://circuitai.com/"
+  },
+  {
+    "id": 243,
+    "name": "Visme",
+    "category": "AI Graphic Design",
+    "description": "An online design tool for creating presentations, infographics, and other visual content, with AI features to assist in design.",
+    "pricing": "Free + Paid",
+    "image": "https://www.visme.co/favicon.ico",
+    "website": "https://www.visme.co/"
+  },
+  {
+    "id": 244,
+    "name": "Deckalit",
+    "category": "AI Data Visualization",
+    "description": "An AI tool that assists in creating data-driven presentations and visual stories automatically.",
+    "pricing": "Paid",
+    "image": "https://deckalit.com/favicon.ico",
+    "website": "https://deckalit.com/"
+  },
+  {
+    "id": 245,
+    "name": "Flourish",
+    "category": "AI Data Visualization",
+    "description": "A platform for creating beautiful and interactive data visualizations and data stories easily.",
+    "pricing": "Free + Paid",
+    "image": "https://flourish.studio/favicon.ico",
+    "website": "https://flourish.studio/"
+  },
+  {
+    "id": 246,
+    "name": "Juice",
+    "category": "AI Data Visualization",
+    "description": "An AI-powered tool for extracting insights and generating compelling data visualizations from raw data.",
+    "pricing": "Paid",
+    "image": "https://juice.ai/favicon.ico",
+    "website": "https://juice.ai/"
+  },
+  {
+    "id": 247,
+    "name": "Bricks",
+    "category": "AI Spreadsheet",
+    "description": "An AI assistant for Google Sheets that helps automate tasks, analyze data, and generate content directly within your spreadsheets.",
+    "pricing": "Paid",
+    "image": "https://bricks.ai/favicon.ico",
+    "website": "https://bricks.ai/"
+  },
+  {
+    "id": 248,
+    "name": "Formelous",
+    "category": "AI Spreadsheet",
+    "description": "An AI tool designed to help users write, explain, and debug complex formulas in spreadsheets.",
+    "pricing": "Paid",
+    "image": "https://formelous.com/favicon.ico",
+    "website": "https://formelous.com/"
+  },
+  {
+    "id": 249,
+    "name": "Glide",
+    "category": "AI Spreadsheet",
+    "description": "A platform that allows you to create powerful mobile and web applications from spreadsheets using AI and no-code tools.",
+    "pricing": "Free + Paid",
+    "image": "https://www.glideapps.com/favicon.ico",
+    "website": "https://www.glideapps.com/"
+  },
+  {
+    "id": 250,
+    "name": "Rows",
+    "category": "AI Spreadsheet",
+    "description": "A spreadsheet with built-in AI capabilities, allowing you to import data, analyze it, and automate tasks using natural language prompts.",
+    "pricing": "Free + Paid",
+    "image": "https://rows.com/favicon.ico",
+    "website": "https://rows.com/"
+  }
+
+
+
+
+
+
+]

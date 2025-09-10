@@ -1,0 +1,7 @@
+@import "tailwindcss";
+/* Remove default spacing */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
